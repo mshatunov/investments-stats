@@ -1,1 +1,4 @@
-
+client:
+  host: https://api-invest.tinkoff.ru/openapi
+  host-sandbox: https://api-invest.tinkoff.ru/openapi/sandbox
+  streaming: wss://api-invest.tinkoff.ru/openapi/md/v1/md-openapi/ws
